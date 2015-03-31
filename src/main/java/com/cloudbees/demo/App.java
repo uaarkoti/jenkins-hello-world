@@ -8,7 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-		  ops
-        System.out.println( "Hello Walmart 7!" );
+        System.out.println( "Hello ChefConf" );
     }
 }
